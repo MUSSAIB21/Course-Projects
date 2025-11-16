@@ -1,0 +1,6 @@
+001|mohammadooo|19|male|moasmda|001|0|70.0|True
+003|hasb|17|male|mosdasd|002|0|80.0|False
+002|Taha|18|male|taha@m.com|002|0|70.0|False
+000|mehd'|29|male|mod|003|0|79.0|True
+405|koesjfdjOIJEJNN|2|male|ksadasdj|djdsjj|0|90.0|False
+007|aaaabbbbccccddddeeeeffff|19|female|ksadksjd|kd2|0|90.0|True

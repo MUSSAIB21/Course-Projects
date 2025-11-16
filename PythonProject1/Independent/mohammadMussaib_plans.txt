@@ -1,0 +1,3 @@
+001|Str&Cond|2000.0|weight,pool,plyo|True|20
+002|boxing|1200.0|ring,cage|True|35
+003|arkinsaawsaaabbllcc|100.0|boxing ring, ufc cage, free weights|False|30

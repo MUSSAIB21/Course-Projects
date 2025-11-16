@@ -1,0 +1,3 @@
+001|Hakim|20|male|hakeemola@291|221,341,M22|12.0|40000.0|True
+004|mj|30|male|blackcat@mj|001,313,414,555,|12.0|200000.0|True
+023|James|39|male|jamestony@gmail.com|BX2,ST1|9.0|29000.0|False
